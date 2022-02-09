@@ -33,7 +33,7 @@ async def start(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("OUR CHANNEL", url="https://t.me/ethioapk1"),
+                Button.url("OUR CHANNEL", url="https://t.me/Ethio_Apps_Store"),
                 Button.url("DEVELOPER", url="t.me/bereketx"),
             ],
         ],
